@@ -1,0 +1,42 @@
+.login{
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin-left: 450px;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+}
+
+.field1{
+width: 200px;
+height: 30px;
+margin: 20px;
+}
+.field2{
+    width: 200px;
+    height: 30px;
+    margin:  5px;
+    }
+    
+
+.btn{
+    background-color: rgb(1, 108, 222);
+    border: 1px solid black;
+    margin-top: 50px;
+    margin: 15px;    
+}
+
+.dash{
+    border: 1px solid black;
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    margin-left: 450px;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+    color: rgb(241, 237, 237);
+    background-color: rgb(55, 50, 50);
+}
